@@ -1,0 +1,70 @@
+/* Styles without Tailwind */
+
+.App {
+    text-align: center;
+    background-color: #282c34;
+  }
+  
+  .Robot-Img {
+    position: center;
+    width: 100%;
+    margin-left: 10%;
+    margin-top: 10%;
+  }
+
+  .Mvts-Logo{
+    position: left;
+    margin-left: 5%;
+  }
+
+  .Main-text{
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 50px;
+    line-height: 80px;
+    
+    color: #378EFF;
+  }
+
+  .Div-top{
+      position: top;
+      width: 100%;
+      height: 70%;
+  }
+
+  .Div-bot{
+    position: bottom;
+    width: 100%;
+    height: 100%;
+    
+    background: linear-gradient(180deg, #181B20 0%, #1A2431 100%), #181B20;
+  }
+
+  .Text-bot{
+    position: right;
+    margin-right: 5%;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 22px;
+    text-align: right;
+    
+    color: #48668D;
+  }
+
+  .App-body{
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
