@@ -1,0 +1,127 @@
+{
+  "lang": "en",
+  "short_name": "MVTS",
+  "name": "Metaverse Calls Messages Phone number",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "",
+      "id": ""
+    },
+    {
+      "platform": "webapp",
+      "url": ""
+    }
+  ],
+
+  "start_url": "https://mvts.io/?utm-source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#181b20",
+  "background_color": "#181b20",
+  "orientation": "portrait-primary",
+  "description": "Mint your phone number in metaverse",
+
+  "screenshots": [
+    {
+      "src": "",
+      "sizes": "1080x2220",
+      "type": "image/webp"
+    },
+    {
+      "src": "",
+      "sizes": "1080x2220",
+      "type": "image/webp"
+    },
+    {
+      "src": "",
+      "sizes": "1080x2220",
+      "type": "image/webp"
+    },
+    {
+      "src": "",
+      "sizes": "1080x2220",
+      "type": "image/webp"
+    }
+  ],
+
+  "shortcuts": [
+    {
+      "name": "Семена овощей",
+      "short_name": "Овощи",
+      "description": "Семена овощей",
+      "url": "",
+      "icons": [
+        {
+          "src": "",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Семена цветов",
+      "short_name": "Цветы",
+      "description": "Семена цветов",
+      "url": "",
+      "icons": [
+        {
+          "src": "",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Газонная трава",
+      "short_name": "Газоны",
+      "description": "Семена газонной травы и сидераты",
+      "url": "",
+      "icons": [
+        {
+          "src": "",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Удобрения",
+      "short_name": "Удобрения",
+      "description": "Удобрения для растений",
+      "url": "",
+      "icons": [
+        {
+          "src": "",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Защита",
+      "short_name": "Защита растений",
+      "description": "Средсва защиты растений от вредителей и болезней",
+      "url": "",
+      "icons": [
+        {
+          "src": "",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+
+  "icons": [
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icons/android-chrome-512x512.png",      
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+  "categories": [
+    
+    ]
+}
