@@ -18,6 +18,9 @@ module.exports = {
       'Comfort': ['Comfortaa', 'sans-serif'],
       'Montserr': ['Montserrat', 'sans-serif'],
     },
+    screens:{
+      'ph': {'min': '350px', 'max': '800px'},
+    },
   plugins: [],
   }
 }
