@@ -8,7 +8,7 @@ function App() {
       <head>
 
       </head>
-      <body class="bg-mainBlack">
+      <div class="bg-mainBlack">
         <div class="relative">
           <img src={robotImg} class="resize pt-8 px-6" alt="robot"/>
           <p class="text-5xl font-sans text-bigText">
@@ -25,7 +25,7 @@ function App() {
             </p>
           </div>
         </div>
-      </body>
+      </div>
     </div>
 
     // <div className="App">
